@@ -1,0 +1,11 @@
+#EXTM3U
+#DATE:- Friday 19 September, 2025
+
+#EXTINF:-1 tvg-id="telegram" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" group-title="Info",📢 Join Our Telegram
+https://t.me/+blqqZLtnxIpkMzFl
+
+#EXTINF:-1 tvg-id="willow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Willow_TV_Logo.png" group-title="Sports",WILLOW - AQ
+https://ratul12.ratulhasan2a.workers.dev/?url=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hw6wbtrnrb/out/v1/f470be4834014ab6a7095f8e462037f3/cenc.mpd
+
+#EXTINF:-1 tvg-id="tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/TNT_Sports_logo.png" group-title="Sports",TNT SPORTS - AQ
+https://ratul12.ratulhasan2a.workers.dev/?url=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
